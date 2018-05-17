@@ -1,0 +1,27 @@
+Script started on 2018-03-21 09:30:06-0400
+]0;mgate005@mgate005-lenovo: ~/school/csc333/ch2n63[01;32mmgate005@mgate005-lenovo[00m:[01;34m~/school/csc333/ch2n63[00m$ ./hrslog 
+
+Chp 2, HW63, shift x right log. using arithm shift
+
+Enter a value in hex: x = 0x87654321
+number of shifts count (0-31) i = 8
+
+You entered x = 0X87654321   and   i = 8
+
+After shift right log. x = 0X00876543
+
+]0;mgate005@mgate005-lenovo: ~/school/csc333/ch2n63[01;32mmgate005@mgate005-lenovo[00m:[01;34m~/school/csc333/ch2n63[00m$ ./hrslog [K[K[K[K[K[K[Ktrsarthm 
+
+Chp 2, HW63, shift y right arithm. using log. shift
+
+Enter a value in hex: y = 0x8765431 21
+number of shifts count (0-31) i = 8
+
+You entered y = 0X87654321   and   i = 8
+
+After shift right arithm. y = 0XFF876543
+
+]0;mgate005@mgate005-lenovo: ~/school/csc333/ch2n63[01;32mmgate005@mgate005-lenovo[00m:[01;34m~/school/csc333/ch2n63[00m$ exit
+exit
+
+Script done on 2018-03-21 09:50:30-0400

@@ -1,0 +1,44 @@
+Script started on 2018-03-05 13:58:26-0500
+]0;mgate005@mgate005-lenovo: ~/school/csc333/ch2n61[01;32mmgate005@mgate005-lenovo[00m:[01;34m~/school/csc333/ch2n61[00m$ ./conditions 
+Enter any 4-byte hex value: 0x01
+
+Any bit of x equals 1: 1
+Any bit of x equals 0: 0
+Any bit in the least significant byte of x equals 1: 1
+Any bit in the most significant byte of x equals 0: 1
+]0;mgate005@mgate005-lenovo: ~/school/csc333/ch2n61[01;32mmgate005@mgate005-lenovo[00m:[01;34m~/school/csc333/ch2n61[00m$ ./conditions [K[K[K[K[K[K[K[K[K[K[K[K[K./clear && perl listProcessoor.pl [A]0;mgate005@mgate005-lenovo: ~/school/csc333/ch2n61[01;32mmgate005@mgate005-lenovo[00m:[01;34m~/school/csc333/ch2n61[00m$ ./[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cconditions 
+Enter any 4-byte hex value: 0xFF
+
+Any bit of x equals 1: 1
+Any bit of x equals 0: 0
+Any bit in the least significant byte of x equals 1: 1
+Any bit in the most significant byte of x equals 0: 0
+]0;mgate005@mgate005-lenovo: ~/school/csc333/ch2n61[01;32mmgate005@mgate005-lenovo[00m:[01;34m~/school/csc333/ch2n61[00m$ cat conditions.c
+#include <stdio.h>
+
+int main()
+{
+    printf("Enter any 4-byte hex value: 0x");
+    int x = 0;
+    scanf("%X", &x);
+    printf("\n");
+
+    int r1 = !!x;
+    int r2 = !x;
+
+
+    int r3 = !!(x & 0xFF);
+    int r4 = !!(~x & 0xFF);
+
+    printf("Any bit of x equals 1: %d\n", r1);
+    printf("Any bit of x equals 0: %d\n", r2);
+    printf("Any bit in the least significant byte of x equals 1: %d\n", r3);
+    printf("Any bit in the most significant byte of x equals 0: %d\n", r4);
+
+    return 0;
+}
+]0;mgate005@mgate005-lenovo: ~/school/csc333/ch2n61[01;32mmgate005@mgate005-lenovo[00m:[01;34m~/school/csc333/ch2n61[00m$ exit
+exit
+
+Script done on 2018-03-05 13:58:49-0500

@@ -1,0 +1,25 @@
+Script started on 2018-03-07 15:06:04-0500
+]0;mgate005@mgate005-lenovo: ~/school/csc333/ch2n64[01;32mmgate005@mgate005-lenovo[00m:[01;34m~/school/csc333/ch2n64[00m$ ./oddbits 
+
+Chp 2, HW64 if any odd-bits are set, return 1, else 0 
+
+Enter a value in hex: x = 0x1
+
+You entered x = 0X00000001 
+
+No odd-bit is set to 1
+
+]0;mgate005@mgate005-lenovo: ~/school/csc333/ch2n64[01;32mmgate005@mgate005-lenovo[00m:[01;34m~/school/csc333/ch2n64[00m$ ./oddbits 
+
+Chp 2, HW64 if any odd-bits are set, return 1, else 0 
+
+Enter a value in hex: x = 0x6
+
+You entered x = 0X00000006 
+
+Some odd-bits are set to 1
+
+]0;mgate005@mgate005-lenovo: ~/school/csc333/ch2n64[01;32mmgate005@mgate005-lenovo[00m:[01;34m~/school/csc333/ch2n64[00m$ exit
+exit
+
+Script done on 2018-03-07 15:06:13-0500

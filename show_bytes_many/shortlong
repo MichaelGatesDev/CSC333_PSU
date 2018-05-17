@@ -1,0 +1,22 @@
+Script started on Mon 12 Feb 2018 03:01:12 PM EST
+]0;chrx@chrx: ~/Documents/csc333/show_bytes_manychrx@chrx:~/Documents/csc333/show_bytes_many$ ./showreps 
+Please enter a value!
+10  38
+Short = 38
+0x7ffcbdcf263c	0x26
+0x7ffcbdcf263d	0x00
+
+Long = 38
+0x7ffcbdcf2638	0x26
+0x7ffcbdcf2639	0x00
+0x7ffcbdcf263a	0x00
+0x7ffcbdcf263b	0x00
+0x7ffcbdcf263c	0x00
+0x7ffcbdcf263d	0x00
+0x7ffcbdcf263e	0x00
+0x7ffcbdcf263f	0x00
+
+]0;chrx@chrx: ~/Documents/csc333/show_bytes_manychrx@chrx:~/Documents/csc333/show_bytes_many$ exit
+exit
+
+Script done on Mon 12 Feb 2018 03:01:28 PM EST

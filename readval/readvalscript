@@ -1,0 +1,22 @@
+Script started on Mon 05 Feb 2018 03:05:34 PM EST
+]0;chrx@chrx: ~/Documents/csc333/readvalchrx@chrx:~/Documents/csc333/readval$ ./readval 
+Please enter a value: 
+15
+You entered Decimal 15 which is F in Hex
+
+]0;chrx@chrx: ~/Documents/csc333/readvalchrx@chrx:~/Documents/csc333/readval$ ./readval 
+Please enter a value: 
+100
+You entered Decimal 100 which is 64 in Hex
+
+]0;chrx@chrx: ~/Documents/csc333/readvalchrx@chrx:~/Documents/csc333/readval$ ./readval 
+Please enter a value: 
+20
+You entered Decimal 20 which is 14 in Hex
+
+]0;chrx@chrx: ~/Documents/csc333/readvalchrx@chrx:~/Documents/csc333/readval$ end
+bash: end: command not found
+]0;chrx@chrx: ~/Documents/csc333/readvalchrx@chrx:~/Documents/csc333/readval$ exit
+exit
+
+Script done on Mon 05 Feb 2018 03:05:49 PM EST

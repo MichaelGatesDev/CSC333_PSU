@@ -1,0 +1,8 @@
+Script started on 2018-02-26 15:02:26-0500
+]0;mgate005@mgate005-lenovo: ~/school/csc333/shiftbits[01;32mmgate005@mgate005-lenovo[00m:[01;34m~/school/csc333/shiftbits[00m$ topclearps aux | grep rmdirapacheclear[Kps aux | grep apache[1Prmdir[K[1Pclear[2Ptop[K./reversebytes 
+Enter x (4-byte value) in hex: 0xFFEEDDCC
+0xFFEEDDCC reversed is 0xCCDDEEFF
+]0;mgate005@mgate005-lenovo: ~/school/csc333/shiftbits[01;32mmgate005@mgate005-lenovo[00m:[01;34m~/school/csc333/shiftbits[00m$ ./reversebytes [K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kexit
+exit
+
+Script done on 2018-02-26 15:02:55-0500

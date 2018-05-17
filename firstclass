@@ -1,0 +1,19 @@
+Script started on Mon 29 Jan 2018 03:04:11 PM EST
+]0;chrx@chrx: ~/Documents/csc333chrx@chrx:~/Documents/csc333$ cd helloworld/hello[K[K[K[K[K./[K[K/./[K[K[Ke[Khello
+bash: cd: helloworld/hello: Not a directory
+]0;chrx@chrx: ~/Documents/csc333chrx@chrx:~/Documents/csc333$ cd helloworld/hello[K[K[K[K[K[K
+]0;chrx@chrx: ~/Documents/csc333/helloworldchrx@chrx:~/Documents/csc333/helloworld$ help[Ko[K[K[K[K./hello 
+Hello, world
+]0;chrx@chrx: ~/Documents/csc333/helloworldchrx@chrx:~/Documents/csc333/helloworld$ cd ./[K./di[K[K[K[K.
+]0;chrx@chrx: ~/Documents/csc333chrx@chrx:~/Documents/csc333$ ls
+firstclass  [0m[01;34mhelloworld[0m  [01;34mreadval[0m
+]0;chrx@chrx: ~/Documents/csc333chrx@chrx:~/Documents/csc333$ cd readval
+]0;chrx@chrx: ~/Documents/csc333/readvalchrx@chrx:~/Documents/csc333/readval$ cd[K[K./readval 
+Please enter a value: 
+9999
+You entered 	b = 9999 	and in Hex: 270F 
+
+]0;chrx@chrx: ~/Documents/csc333/readvalchrx@chrx:~/Documents/csc333/readval$ exit
+exit
+
+Script done on Mon 29 Jan 2018 03:07:09 PM EST

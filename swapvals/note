@@ -1,0 +1,11 @@
+generate .s file:
+	gcc -O2 -S main.c
+
+generate .o file:
+	as -o main.o main.s
+
+see obj file:
+	objdump -d main.o
+
+to link:
+	ld -o yp (needs system obj files) main.o swap.o

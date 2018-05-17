@@ -1,0 +1,23 @@
+Script started on 2018-03-21 09:25:02-0400
+]0;mgate005@mgate005-lenovo: ~/school/csc333/ch2n65[01;32mmgate005@mgate005-lenovo[00m:[01;34m~/school/csc333/ch2n65[00m$ ./ch2n65 
+
+Chp 2, HW65, if odd 1's in a word return 1, else 0 
+
+Enter a value in hex: x = 0x9595
+
+
+There are even number of ones in 0X9595
+
+]0;mgate005@mgate005-lenovo: ~/school/csc333/ch2n65[01;32mmgate005@mgate005-lenovo[00m:[01;34m~/school/csc333/ch2n65[00m$ ./ch2n65 
+
+Chp 2, HW65, if odd 1's in a word return 1, else 0 
+
+Enter a value in hex: x = 0x19
+
+
+There are odd number of ones in 0X19
+
+]0;mgate005@mgate005-lenovo: ~/school/csc333/ch2n65[01;32mmgate005@mgate005-lenovo[00m:[01;34m~/school/csc333/ch2n65[00m$ exit
+exit
+
+Script done on 2018-03-21 09:25:11-0400
